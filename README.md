@@ -4,7 +4,7 @@ Speech Assist is a simple text to speech application that uses SpeechSynthesis f
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/SpeechAssist/)
 
 ## Built Using
 
